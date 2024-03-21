@@ -20,6 +20,15 @@ WeatherVue allows users to quickly check the current weather conditions of any l
 - **OpenWeatherMap API**: Provides access to weather data for any location.
 - **Tailwind**: Frontend framework for responsive design and layout.
 
+## Getting Started
+
+To run the WeatherVue app locally, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Navigate to the project directory in your terminal.
+3. Install dependencies by running `npm install`.
+4. Create a `.env` file in the project root and add VITE_APP_PUBLIC_KEY_WEATHER=OpenWeatherMap API key
+
 
 ## Recommended IDE Setup
 
