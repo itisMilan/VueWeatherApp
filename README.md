@@ -18,7 +18,7 @@ WeatherVue allows users to quickly check the current weather conditions of any l
 
 - **Vue.js**: Frontend JavaScript framework for building user interfaces.
 - **OpenWeatherMap API**: Provides access to weather data for any location.
-- **Bootstrap**: Frontend framework for responsive design and layout.
+- **Tailwind**: Frontend framework for responsive design and layout.
 
 
 ## Recommended IDE Setup
