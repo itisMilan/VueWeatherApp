@@ -157,6 +157,8 @@
         hour.currentTime =
           utc + 1000 * weatherData.data.timezone_offset;
       });
+    //   Flicker Delay
+      await new Promise((resolve) => setTimeout(resolve, 1000));
   
       return weatherData.data;
     } catch (err) {
